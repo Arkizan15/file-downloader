@@ -1,0 +1,3 @@
+D:/sinaucpp/file-donwloader/build/CMakeFiles/file-downloader.dir
+D:/sinaucpp/file-donwloader/build/CMakeFiles/edit_cache.dir
+D:/sinaucpp/file-donwloader/build/CMakeFiles/rebuild_cache.dir
